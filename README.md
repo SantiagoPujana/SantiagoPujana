@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ProzTock/ProzTock/master/matrix_code.gif">
+  <img src="https://raw.githubusercontent.com/ProzTock/ProzTock/main/matrix_code.gif">
 </p>
 
 ## 👋 Hi, my name is Santiago
