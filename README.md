@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ProzTock/LocationTrackerProject/master/my_gif.gif">
+  <img src="https://raw.githubusercontent.com/ProzTock/ProzTock/master/my_gif.gif">
 </p>
 
 ## 👋 Hi, my name is Santiago
