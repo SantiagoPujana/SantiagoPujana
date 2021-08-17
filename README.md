@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gfycat.com/dependabletartiberianmidwifetoad">
+  <img src="https://raw.githubusercontent.com/ProzTock/LocationTrackerProject/master/my_gif.gif">
 </p>
 
 ## 👋 Hi, my name is Santiago
