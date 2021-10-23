@@ -8,7 +8,7 @@
 
 ## 👨🏻‍💻 &nbsp;About me
 
-### 👯 &nbsp;I'm from Colombia and like coding in Python, Java, BATCH Scripting and C++, usually my hobbits are networking and cybersecurity, I want to learning more technologies like Django and Flask Framework, Golang and how to implement secure code, and then apply them with new projects.
+### 👯 &nbsp;I'm from Colombia and like coding in Python, Java, HTML, CSS, JavaScript, BATCH Scripting and C++, usually my hobbits are networking and cybersecurity, I want to learn more technologies like Django, Flask Framework, Golang and how to implement secure code, and then apply them with new projects.
 
 ### 🛠 &nbsp;Some technologies that I have used
 
