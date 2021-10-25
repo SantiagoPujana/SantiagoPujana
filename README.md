@@ -4,7 +4,7 @@
 
 ## 👋 &nbsp;Hi, my name is Santiago Pujana Polanco
 
-### ⚡ Systems and Computer Engineer (Computer Sciencie) Student
+### ⚡ Systems and Computer Engineer (Computer Science) Student
 
 ## 👨🏻‍💻 &nbsp;About me
 
