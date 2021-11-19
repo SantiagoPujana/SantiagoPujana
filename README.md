@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ProzTock/ProzTock/master/my_gif.gif">
 </p>
 
-## 👋 &nbsp;Hi, my name is Santiago Pujana Polanco
+## 👋 &nbsp;¡Hello there!, my name is Santiago Pujana Polanco
 
 ### ⚡ Systems and Computer Engineer (Computer Science) Student
 
