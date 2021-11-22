@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/ProzTock/ProzTock/master/my_gif.gif">
-</p>
+</div>
 
 ## 👋 &nbsp;¡Hello there!, my name is Santiago Pujana Polanco
 
@@ -12,7 +12,7 @@
 
 ### 🛠 &nbsp;Some technologies that I have used
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -30,20 +30,20 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
+</div>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/ProzTock">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ProzTock&show_icons=true&theme=algolia&include_all_commits=true"/>  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ProzTock&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div align="center">
+  <a href="https://github.com/ProzTock">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ProzTock&show_icons=true&theme=algolia&include_all_commits=true"/>  
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ProzTock&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</div>
 
 ### 🤝📫 &nbsp;Let's connect
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/santiago-pujana-polanco-a7a014212"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Santiago%20Pujana%20Polanco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:santiagopujana@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-santiagopujana@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+</div>
