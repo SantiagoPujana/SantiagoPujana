@@ -1,3 +1,5 @@
+<div align="justify"> 
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/ProzTock/ProzTock/master/my_gif.gif">
 </div>
@@ -46,4 +48,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/santiago-pujana-polanco-a7a014212"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Santiago%20Pujana%20Polanco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:santiagopujana@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-santiagopujana@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+  
 </div>
