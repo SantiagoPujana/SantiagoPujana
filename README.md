@@ -10,7 +10,7 @@
 
 ## 👨🏻‍💻 &nbsp;About me
 
-### 👯 &nbsp;I'm from Colombia and like coding in Python, Java, HTML, CSS, JavaScript and C/C++, usually my hobbits are networking and cybersecurity, also I want to learn more technologies like Bash Scripting, Docker, Kubernetes, Golang, Django, Flask and how to implement secure code, and then apply them with new projects in a close future.
+### 👯 &nbsp;I consider myself a person who loves what to do, besides since I know programming, I think is so interesting how it works, also it challenges you every day to solve problems with code and be able to improve it, I usually coding in Python, Java, HTML, CSS, Javascript, however some of my goals is to learn new features about these languages and keep researching in topics related with backend programming, DevOps, Cloud Computing to eventually apply them in enterprise environments and new projects, on the other hand I like to learn new things every day, share my knowledge by helping others and keep going improving my skills to build new tools which allow solving any need.
 
 ### 🛠 &nbsp;Some technologies that I have used
 
