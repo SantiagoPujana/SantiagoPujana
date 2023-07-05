@@ -6,11 +6,11 @@
 
 ## 👋 &nbsp;¡Hello there!, my name is Santiago Pujana Polanco
 
-### ⚡ Systems and Computer Engineer (Computer Science) Student
+### ⚡ Systems and Computer Engineer (Computer Science)
 
 ## 👨🏻‍💻 &nbsp;About me
 
-### 👯 &nbsp;I consider myself a person who loves what to do, besides since I know programming, I think is so interesting how it works, also it challenges you every day to solve problems with code and be able to improve it, I usually coding in Python, Java, HTML, CSS, Javascript, however some of my goals is to learn new features about these languages and keep researching in topics related with backend programming, DevOps, Cloud Computing to eventually apply them in enterprise environments and new projects, on the other hand I like to learn new things every day, share my knowledge by helping others and keep going improving my skills to build new tools which allow solving any need.
+### 👯 &nbsp;I consider myself a person who loves what to do, besides since I know programming, I think is so interesting how it works, also it challenges you every day to solve problems with code and be able to improve it, I usually coding in Python, BASH Scripting, SQL, Java, HTML, CSS, Javascript, however some of my goals is to learn new features about these languages and keep researching in topics related with backend programming, DevOps, Cloud Computing to eventually apply them in enterprise environments and new projects, on the other hand I like to learn new things every day, share my knowledge by helping others and keep going improving my skills to build new tools which allow solving any need.
 
 ### 🛠 &nbsp;Some technologies that I have used
 
